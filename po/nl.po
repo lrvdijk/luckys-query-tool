@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-10-09 12:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/luckys-query-tool.glade.h:1
+msgid "Browse all public servers on the internet"
+msgstr "Zoek naar publieke servers op het internet"
+
+#: ../src/luckys-query-tool.glade.h:2
+msgid "Configuration"
+msgstr "Configuratie"
+
+#: ../src/luckys-query-tool.glade.h:3
+msgid "Configure Quake Wars Manager"
+msgstr "Verander instellingen van Lucky's Query Tool"
+
+#: ../src/luckys-query-tool.glade.h:4
+msgid "IP Address:"
+msgstr "IP Adres:"
+
+#: ../src/luckys-query-tool.glade.h:5
+msgid "LAN Game Browser"
+msgstr "LAN Game Browser"
+
+#: ../src/luckys-query-tool.glade.h:6
+msgid "New Server Info Tab"
+msgstr "Nieuwe server info tab"
+
+#: ../src/luckys-query-tool.glade.h:7
+msgid "Open a new Server Info tab, with the given IP"
+msgstr "Open een nieuwe tab met informatie over de server"
+
+#: ../src/luckys-query-tool.glade.h:8
+msgid "Open new server tab"
+msgstr "Open nieuwe server tab"
+
+#: ../src/luckys-query-tool.glade.h:9
+msgid "Quake Wars Manager"
+msgstr "Lucky's Query Tool"
+
+#: ../src/luckys-query-tool.glade.h:10
+msgid "Server Browser"
+msgstr "Server Browser"
+
+#: ../src/luckys-query-tool.glade.h:11
+msgid "_File"
+msgstr "_Bestand"
+
+#: ../src/luckys-query-tool.glade.h:12
+msgid "_Help"
+msgstr "_Help"
+
+#: ../src/luckys-query-tool.glade.h:13
+msgid "_View"
+msgstr "B_eeld"
+
+#: ../src/luckys-query-tool.glade.h:14
+msgid "gtk-about"
+msgstr ""
+
+#: ../src/luckys-query-tool.glade.h:15
+msgid "gtk-cancel"
+msgstr ""
+
+#: ../src/luckys-query-tool.glade.h:16
+msgid "gtk-ok"
+msgstr ""
+
+#: ../src/luckys-query-tool.glade.h:17
+msgid "gtk-quit"
+msgstr ""
+
+#: ../src/MainWindow.cpp:89 ../src/MainWindow.cpp:96
+msgid "Could not connect to server"
+msgstr "Kon niet verbinden met server"
+
+#: ../src/Socket.cpp:49
+msgid "Could not create socket"
+msgstr "Kon verbinding niet maken"
+
+#: ../src/Socket.cpp:57
+msgid "Could not set socket option"
+msgstr "Kon de socket optie niet instellen"
+
+#: ../src/UdpClient.cpp:43 ../src/TcpClient.cpp:43
+msgid "Could not resolve DNS"
+msgstr "Kon DNS niet oplossen."
+
+#: ../src/UdpClient.cpp:60
+msgid "Could not receive data from server"
+msgstr "Kon de data van de server niet ontvangen"
+
+#: ../src/UdpClient.cpp:83 ../src/TcpClient.cpp:69 ../src/TcpClient.cpp:92
+msgid "Problem with receiving data"
+msgstr "Er was een probleem met het ontvangen van data"
+
+#: ../src/UdpClient.cpp:116 ../src/TcpClient.cpp:125
+msgid "Problem with sending data"
+msgstr "Er was een problem met het verzenden van data"
+
+#: ../src/TcpClient.cpp:55
+msgid "Could not connect to socket"
+msgstr "Kon niet verbinden met socket"
+
+#: ../src/Protocol.cpp:89
+msgid "Offset out of bounds"
+msgstr ""
+
+#: ../src/Protocol.cpp:106
+msgid "Not connected to server"
+msgstr "Niet verbonden met server"
