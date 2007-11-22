@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+
+src/luckys-query-tool.glade
+src/MainWindow.cpp
+src/Socket.cpp
+src/UdpClient.cpp
+src/TcpClient.cpp
+src/Protocol.cpp

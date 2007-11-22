@@ -1,0 +1,10 @@
+
+[Anjuta]
+Geometry=1280x947+0+52
+
+[File Loader]
+Files=file:///home/lucas/Coding/C%2B%2B/luckys-query-tool/src/QuakeWars.cpp#69
+
+[Execution]
+Program arguments=
+Run in terminal=2
